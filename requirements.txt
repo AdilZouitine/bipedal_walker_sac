@@ -1,0 +1,6 @@
+numpy
+torch
+wandb
+gym-pusht
+tyro
+tensorboard
